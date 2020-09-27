@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8B4AEC5F-42D7-2F66-1613-5DD085C2926F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player States/PlayerIdleState.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="79" Column="62" />
+      <File FileName="Assets/Scripts/PlayerController_FSM.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scripts/Player States/PlayerIdleState.cs" Line="35" Column="65" />
+      <File FileName="Assets/Scripts/Player States/PlayerDuckingState.cs" Line="27" Column="56" />
+      <File FileName="Assets/Scripts/Player States/PlayerSpinningState.cs" Line="17" Column="52" />
+      <File FileName="Assets/Scripts/Player States/PlayerJumpingState.cs" Line="21" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6c315e19-98b6-4cca-8e25-067acf234df1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
